@@ -1,6 +1,8 @@
 <h1 align="center">Questo è il mio primo Progetto</h1>
 <br>
 <br>
+<p align="justify">Questo è il mio primo progetto che ho fatto dopo aver studiato con <a href="https://devclub.com.br/">DevClub</a><br>
+i linguaggi di programmazione </p>
 <h2>Tecnologie usate</h2>
 <br>
  - HTML 
